@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Pyae Phyo Kyaw</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -10,6 +12,10 @@
 - 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **pyaephyokyawmc@mtu.edu.mm**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyaephyokyaw15&show_icons=true&theme=radical)
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
