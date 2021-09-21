@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pyae Phyo Kyaw</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Python Freelancer</h3>
 
 - 🔭 I’m currently working as **Python Freelancer**
 
