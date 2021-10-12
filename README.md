@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **pyaephyokyawmc@mtu.edu.mm**
 
-[![Pyae Phyo Kyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyaephyokyaw15)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyaephyokyaw15&theme=calm&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyaephyokyaw15&theme=calm&layout=compact" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
