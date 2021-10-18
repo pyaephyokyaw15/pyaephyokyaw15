@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Odoo**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Python and Machine Projects**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Machine Learning**
 
 - 📫 How to reach me **pyaephyokyawmc@mtu.edu.mm**
 
