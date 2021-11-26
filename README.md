@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django, Machine Learning**
 
-- 📫 How to reach me **pyaephyokyawmc@mtu.edu.mm**
+- 📫 How to reach me **pyaekyaw1571999@gmail.com**
 
 
 <a href="https://github.com/AVS1508">
