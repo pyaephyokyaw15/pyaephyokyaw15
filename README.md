@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pyae Phyo Kyaw</h1>
 <h3 align="center">Freelance Python Developer</h3>
 
-- 🔭 I’m currently working as a**Python/Odoo Developer**
+- 🔭 I’m currently working as a **Python/Odoo Developer**
 
 - 👯 I’m looking to collaborate on **Python and Machine Projects**
 
