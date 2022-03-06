@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Python/Odoo Developer**
 
-- 👯 I’m looking to collaborate on **Python and Machine Projects**
+- 👯 I’m looking to collaborate on **Python and Machine Learning(AI) Projects**
 
 - 💬 Ask me about **Python, Django, Machine Learning**
 
